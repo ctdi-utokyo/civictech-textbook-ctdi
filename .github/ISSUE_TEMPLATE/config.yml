@@ -1,0 +1,11 @@
+
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 GitHub Discussions（自由な意見交換）
+    url: ../../discussions
+    about: 章をまたぐ大きなテーマや、教科書の方向性についての議論はこちらへ。
+
+  - name: 🟢 Google Form（GitHubアカウント不要）
+    url: https://forms.gle/XXXXXXXXXX
+    about: GitHubに不慣れな方・匿名でフィードバックしたい方はこちらへ。
