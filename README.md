@@ -35,7 +35,7 @@
 
 ### 🟢 方法A：Google Form（GitHubアカウント不要・最も手軽です）
 
-**→ [フィードバックフォームを開く](https://forms.gle/XXXXXXXXXX)**
+**→ [フィードバックフォームを開く](https://forms.gle/amNNcYndjML3jXZMA)**
 
 GitHubに不慣れな方や、匿名でご意見を寄せたい方に適しています。  
 フォームでは以下についてご意見をいただけます：
