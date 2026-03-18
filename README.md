@@ -20,6 +20,7 @@
 ```
 /
 ├── README.md
+└── .github/ISSUE_TEMPLATE      # ご意見を投稿いただけるフォームのテンプレート
 └── structure/
     ├── outline.md              # 全体目次・章節の鳥瞰図
         └── ...
