@@ -33,7 +33,7 @@
 
 ---
 
-### 🟢 方法A：Google Form（GitHubアカウント不要・最も手軽です）
+### 🟢 方法A：Google Form（GitHubアカウント不要）
 
 **→ [フィードバックフォームを開く](https://forms.gle/amNNcYndjML3jXZMA)**
 
