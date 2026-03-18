@@ -22,10 +22,6 @@
 ├── README.md
 └── structure/
     ├── outline.md              # 全体目次・章節の鳥瞰図
-    └── chapters/
-        ├── ch00_template.md    # 章ファイルの記入テンプレート（編集不要）
-        ├── ch01.md             # 第1章
-        ├── ch02.md             # 第2章
         └── ...
 ```
 
